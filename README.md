@@ -9,6 +9,7 @@
 - ⚡ Fun fact - ❔❔❔❔
 <!-- ❔❔❔❔ means username in below README.md -->
 <!-- Also feel free to update second URL to any URL -->
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=mimamulhassankhan&count_private=true&include_all_commits=true&theme=onedark)](https://google.com)
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
