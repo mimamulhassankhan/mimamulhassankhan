@@ -4,7 +4,9 @@
 ### My Stat's
 <hr/>
 <img align="top" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=mimamulhassankhan&count_private=true&include_all_commits=true&theme=onedark)](https://google.com)
+
 ## Your short description
 - 🔭 I’m Owner & Co-Founder of - Xenon Solutions Ltd. 
 - 🌱 I’m currently learning - ❔❔❔❔
@@ -19,11 +21,6 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
-<!-- Optional if you have blogs -->
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!-- This section you create this variables that are used above -->
 [website]: https://imamulhassankhan.azurewebsites.net/
 [twitter]: https://twitter.com/indrajeet_nikam
 [linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
