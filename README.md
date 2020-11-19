@@ -1,5 +1,6 @@
 ### Hi, I'm Imamul Hassan Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://google.com)
+A dedicated and hardworking individual with a Bachelor's degree in Computer Science and work experience of 3 years. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase, Redux. 
 
 ### My Stat's
 <hr/>
