@@ -5,7 +5,7 @@
 </strong> 
 
 ## My Stat's
-<img width="600px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mimamulhassankhan)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
