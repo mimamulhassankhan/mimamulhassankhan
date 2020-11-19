@@ -9,9 +9,9 @@
 
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=mimamulhassankhan&count_private=true&include_all_commits=true&theme=onedark)](https://google.com)
 
-## Your short description
+## Short description
 - 🔭 I’m Owner & Co-Founder of - Xenon Solutions Ltd. 
-- 🌱 I’m currently learning - ❔❔❔❔
+- 🌱 I’m currently learning - C# Advanced
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2020 Goal - ❔❔❔❔
