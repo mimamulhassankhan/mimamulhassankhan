@@ -1,13 +1,13 @@
-### Hi, I'm Imamul Hassan Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi, I'm Imamul Hassan Khan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FImamul_hk)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fimamul-hassan-portfolio.web.app%2F)</br>
 <strong style="text-align: justify;">
   A dedicated and hardworking individual with a Bachelor's degree in Computer Science and work experience of 3 years. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase, Redux.
 </strong> 
 
-### My Stat's
+## My Stat's
 <hr/>
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-<hr />
+
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=mimamulhassankhan&count_private=true&include_all_commits=true&theme=onedark)](https://google.com)
 
 ## Your short description
