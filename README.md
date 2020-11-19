@@ -7,6 +7,8 @@
 ## My Stat's
 <img width="600px" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=mimamulhassankhan&count_private=true&include_all_commits=true&theme=onedark)](https://google.com)
 
 ## Short description
