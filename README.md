@@ -5,7 +5,7 @@
 </strong> 
 
 ## My Stat's
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mimamulhassankhan)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imamulhassankhan)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
