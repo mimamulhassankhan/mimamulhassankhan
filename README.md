@@ -2,7 +2,7 @@
 <strong>Hello and welcome to my GitHub account! My name is Imamul Hassan Khan</strong> and I am a software engineer with over 4 years of experience in various domains such as web development, data science and machine learning. Here you can find some of my personal projects and contributions to open source communities. I am always eager to learn new skills and technologies and collaborate with other developers. Feel free to browse through my repositories and star or fork the ones you like. You can also contact me via email at imamulhassankhan@outlook.com or follow me on Twitter at [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FImamul_hk)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fimamul-hassan-portfolio.web.app%2F). Thank you for visiting my GitHub account and have a great day!
 
 ## 🧑 Short description
-💼 I’m Co-Founder of Xenon Solutions Ltd., a software development company specializing in building cutting-edge web applications.<br>
+💼 I’m Co-Founder of [Xenon Solutions Ltd.](https://www.facebook.com/xenon.solution), a software development company specializing in building cutting-edge web applications.<br>
 🌱 I’m currently focusig and learning more about ML & AI algorithms along with how to design large-scale web systems.<br>
 👯 I’m looking to collaborate with like-minded individuals passionate about innovation and technology.<br>
 💬 Ask me about anything related to web development, ML & AI algorithms, or entrepreneurship.<br>
