@@ -18,6 +18,14 @@
 - 🤝 A collaborative team player committed to delivering high-quality work.
 - 🔐 Proficient in implementing Role-Based Access Control (RBAC) to manage user permissions.
 
+## 🏆 Achievements
+- 🏅 Awarded Best Performer for the 2022-2023 fiscal year at BJIT Group (Current Workplace).
+- 🏆 2nd Runner Up in the DIU Take Off Programming Contest.
+- 🗣️ Participated in Debate Competitions, showcasing strong communication skills.
+- 🚀 Consistently participated in and excelled in various Inter and Intra-University National Standard Programming Contests.
+- 💻 Problem Solver on popular online judges like URI, Codeforces, and more, achieving a notable ranking of 383rd on URI Online Judge.
+
+
 ## 📊 My Stat's
 [comment]: <[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imamulhassankhan)](https://github.com/anuraghazra/github-readme-stats)>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
